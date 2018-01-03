@@ -6,3 +6,4 @@
 * Unlimited SQL history excluding invalid and duplicate statements
 * Export query results to text file
 
+![screenshot](screen.tiff)
